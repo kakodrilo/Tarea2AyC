@@ -1,0 +1,6 @@
+TAREA 2 ALGORITMOS Y COMPLEJIDAD
+
+Integrantes:
+- Joaquín Castillo Tapia	rol: 201773520-1
+- María Paz Morales Llopis	rol: 201773505-8
+- Axel Reyes Orellana 		rol: 201773502-3
